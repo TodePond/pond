@@ -8,5 +8,6 @@
   "rep": ["rep.wav"],
   "love": ["love.wav"],
   "gen": ["gen.wav"],
-  "caw": ["caw.wav"]
+  "caw": ["caw.wav"],
+  "energy": ["energy.wav"]
 }
