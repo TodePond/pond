@@ -7,5 +7,6 @@
   "air": ["air.wav"],
   "rep": ["rep.wav"],
   "love": ["love.wav"],
-  "gen": ["gen.wav"]
+  "gen": ["gen.wav"],
+  "caw": ["caw.wav"]
 }
