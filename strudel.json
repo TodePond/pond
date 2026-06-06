@@ -2,7 +2,7 @@
   "_base": "https://raw.githubusercontent.com/todepond/pond/main/",
   "dark": ["dark.wav"],
   "smog": ["onetwothreefour.wav", "necessary.wav", "ido.wav", "promise.wav", "hereiam.wav", "makeme.wav"],
-  "ooh": ["clock.wav", "something.wav", "ooh.wav"],
+  "ooh": ["clock.wav", "something.wav", "ooh-short.wav"],
 
   "air": ["air.wav"],
   "rep": ["rep.wav"],
